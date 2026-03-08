@@ -62,6 +62,6 @@ Results indicate **Model 1 again produced the lowest average error (15.35)**, bu
 
 ## Files
 
-- `Assignment3.ipynb` – analysis notebook
-- `dataset.csv` – dataset used in the study
-- `report.pdf` – full analytical report
+- `Code.ipynb` – analysis notebook
+- `Auto.csv` – dataset used in the study
+- `Analytical Report.docx` – full analytical report
